@@ -1,7 +1,3 @@
-# City-Temperature-Clustering-K-Means-Machine-Learning-Project
-Identifying temperature patterns across multiple cities using unsupervised learning.
-Here is a **clean, professional, GitHub-ready README** for your **City Temperature Clustering (K-Means)** project.
-
 # **City Temperature Clustering — K-Means Machine Learning Project**
 
 Identifying temperature patterns across multiple cities using unsupervised learning.
