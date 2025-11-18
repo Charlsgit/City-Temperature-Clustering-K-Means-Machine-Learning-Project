@@ -83,16 +83,6 @@ Generated cluster labels for each city based on temperature patterns.
 
 ---
 
-## **Project Structure**
-
-```
-├── city_temperature.ipynb     # Main notebook
-├── dataset.csv                # Dataset (if allowed)
-├── README.md                  # Documentation
-```
-
----
-
 ## **What I Learned**
 
 * How unsupervised ML models work
